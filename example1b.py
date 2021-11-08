@@ -35,6 +35,9 @@ events.append('15 seconds')
 times.append(curTime + 20)
 events.append('exiting at 20 seconds')
 
+print(times)
+print(events)
+
 # loop is controlled by a boolean that can be modified by the loop
 while doLoop:
     numEvents = len(events)
