@@ -32,15 +32,18 @@ in understanding how the code structures work.
 ##### Task 1: Become familiar with the time module
 Open the file example1.py
 
+##### Task 2: Use Virtual Environments to add a Library
+This is a very helpful resource:
+https://realpython.com/python-virtual-environments-a-primer/
+In this class, we are going to need to use the "command prompt" terminal rather than powershell as it allows us to create our virtual environment
 
-##### Task 2: Become familiar with commands in the pyautogui module.
+##### Task 3: Become familiar with commands in the pyautogui module.
 Visit: https://pyautogui.readthedocs.io/en/latest/index.html
 Follow the instructions on installing pyautogui on your computer.
-You may need to add an additional installation parameter: --user
+You can install it once you have set up the virtual environment for your project.
 
 
-
-##### Task 3: Planning sequences of Events
+##### Task 4: Planning sequences of Events
 Write down the sequence of events or actions that you will need to program
 into your game.  You may want to check pauses if your game needs to wait
 for actions to complete. You will be submitting this document as part of
