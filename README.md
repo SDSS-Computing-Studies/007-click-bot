@@ -36,6 +36,13 @@ if the developer is not trusted.
 Pay close attention to today's example files, as they will be very important
 in understanding how the code structures work.
 
+#### How to Take Screenshots ####
+* windows-I to open up your settings
+* search for "print screen".  The option to have print screen to take a screenshot should be found
+* open up the link and change the print screen to take a screen shot option to checked (it's a button)
+* to save a screenshot to your clipboard, press print-screen button (BlueFn > Print Screen)
+* it should give you the option to open snip and sketch where you can save it. You may need to open your notification center
+
 ##### Task 1: Become familiar with the time module
 Open the file example1.py
 
@@ -67,6 +74,7 @@ into your game.  You may want to check pauses if your game needs to wait
 for actions to complete. You will be submitting this document as part of
 your assessment.
 (5 marks)
+
 
 
 
